@@ -1,0 +1,32 @@
+baseURL = "http://kliqcreatives.com/"
+languageCode = "en-us"
+title = "Kliq Creatives"
+theme = "hugo-creative-portfolio-theme"
+email="info@kliqcreatives.com"
+
+[params]
+style="default"
+description="Kliq Creatives Landing Site"
+sidebarAbout = [ "Maker for Hire",
+]
+
+#Nav links in the side bar
+[[params.navLinks]]
+name = "Home"
+url = ""
+
+
+[[params.navLinks]]
+name = "About"
+url = "about/"
+
+
+[[params.navLinks]]
+name = "Get in touch"
+url = "contact/"
+
+[params.social]
+facebook = "https://www.facebook.com/KliqCreatives/"
+email = "info@kliqcreatives.com"
+# instructables, pinshape, thingiverse, shapeways, youtube
+
