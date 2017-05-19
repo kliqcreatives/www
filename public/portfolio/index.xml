@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Kliq Creatives</title>
+    <link>http://kliqcreatives.com/portfolio/</link>
+    <description>Recent content in Portfolios on Kliq Creatives</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://kliqcreatives.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Printed Fitted Head Dress</title>
+      <link>http://kliqcreatives.com/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://kliqcreatives.com/portfolio/work1/</guid>
+      <description>A detailed head scan is used to create a perfect fit</description>
+    </item>
+    
+    <item>
+      <title>Brazillian Carnaval Style Head Gear</title>
+      <link>http://kliqcreatives.com/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>http://kliqcreatives.com/portfolio/work3/</guid>
+      <description>This Carnaval style head gear is perfectly fitted, 3D printed, and it glows in the dark!</description>
+    </item>
+    
+    <item>
+      <title>3D printed Face Cage</title>
+      <link>http://kliqcreatives.com/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>http://kliqcreatives.com/portfolio/work4/</guid>
+      <description>A 3D scanned head is used to create this perfect fit.</description>
+    </item>
+    
+    <item>
+      <title>Leather Journal Cover with Pen Loop</title>
+      <link>http://kliqcreatives.com/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>http://kliqcreatives.com/portfolio/work9/</guid>
+      <description>This hand sewn leather journal cover features a pair of pen loops that serve two purposes; keeping the journal closed and holding the pen.</description>
+    </item>
+    
+    <item>
+      <title>3D printed Mohawk</title>
+      <link>http://kliqcreatives.com/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>http://kliqcreatives.com/portfolio/work5/</guid>
+      <description>This Mohawk is custom fitted for all day comfort, and it&amp;rsquo;s super strong for mounting accessories.</description>
+    </item>
+    
+    <item>
+      <title>Wind Powered Random Number Generator</title>
+      <link>http://kliqcreatives.com/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>http://kliqcreatives.com/portfolio/work7/</guid>
+      <description>This 3D printed arduino random number generator uses a wind turbine for random seeds. A true random number generator!</description>
+    </item>
+    
+    <item>
+      <title>Sticker Bomb Laptop</title>
+      <link>http://kliqcreatives.com/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>http://kliqcreatives.com/portfolio/work8/</guid>
+      <description>There&amp;rsquo;s sticker bombing, and then there&amp;rsquo;s this.</description>
+    </item>
+    
+    <item>
+      <title>Tape Sculpture</title>
+      <link>http://kliqcreatives.com/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>http://kliqcreatives.com/portfolio/work2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D printed face strap</title>
+      <link>http://kliqcreatives.com/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>http://kliqcreatives.com/portfolio/work6/</guid>
+      <description>A 3D head scan ensures comfortable perfect fit.</description>
+    </item>
+    
+  </channel>
+</rss>
