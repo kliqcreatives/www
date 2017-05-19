@@ -10,5 +10,6 @@ I'm an inventor and maker in the San Francisco Bay Area.
 * [Pinshape](https://pinshape.com/users/88638-kliqcreatives)
 * [Instructables](https://www.instructables.com/member/cfishy/instructables/)
 * [Shapeways](https://www.shapeways.com/designer/cfishy)
+* [Facebook](https://www.facebook.com/KliqCreatives/)
 
 
